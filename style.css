@@ -70,6 +70,7 @@ section p {
     display: flex;
     gap: 15px;
     justify-content: center;
+    height: 300px;
 
 }
 .info{
@@ -83,4 +84,17 @@ section p {
 }
 .third{
     background-color: #E5E7EB;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.author{
+  display: flex;
+  justify-content: flex-end;
+}
+.citation,.author {
+  font-size: 36px;
+  font-weight: lighter;
+  color: #1f2937;
 }
