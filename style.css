@@ -119,3 +119,11 @@ section p {
   display: flex;
   align-items: center;
 }
+footer{
+  background-color: #1f2937;
+  color: #E5E7EB;
+  display: flex;
+  justify-content: center;
+  height: 70px;
+  align-items: center;
+}
